@@ -1,0 +1,13 @@
+area_code,area_name,reporting_year,age_group,sex,appointments,average_wait_days,follow_up_needed,notes,population,region,deprivation_band,appointments_per_1000
+CH001,Northside,2024,0-17,Female,1250,7.0,Yes,school clinics,52400,North,Low,23.9
+CH001,Northside,2024,18-64,Male,980,5.0,No,,52400,North,Low,18.7
+CH001,Northside,2024,65+,Female,430,7.5,Yes,telephone follow-up,52400,North,Low,8.2
+CH001,Northside,2025,0-17,Female,1280,6.0,No,,53100,North,Low,24.1
+CH002,Riverside,2024,0-17,Female,875,6.0,No,,48750,North,Medium,17.9
+CH002,Riverside,2024,18-64,Male,1040,8.0,Yes,evening service,48750,North,Medium,21.3
+CH002,Riverside,2024,65+,Male,310,7.5,No,data-entry error in wait,48750,North,Medium,6.4
+CH002,Riverside,2025,18-64,Unknown,1060,7.0,Unknown,sex and follow-up missing,49200,North,Medium,21.5
+CH003,Hilltown,2024,0-17,Female,620,9.0,Yes,,36900,North,High,16.8
+CH003,Hilltown,2024,18-64,Male,900,10.0,No,,36900,North,High,24.4
+CH003,Hilltown,2024,65+,Female,275,12.0,Yes,area name missing,36900,North,High,7.5
+CH003,Hilltown,2025,65+,Male,,11.0,Yes,appointments missing,,North,High,
